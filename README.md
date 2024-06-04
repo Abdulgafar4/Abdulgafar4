@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulgafar Tajudeen
-===========================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulgafar
+==================================================================================================================================
 
 Frontend Developer
 ------------------
 
 I'm an Innovative Frontend Developer with a passion for building web apps for Personal and Industrial uses. Front-End Developer with proven experience at Crescent Cafe, Omni-energy, and DeepInt'l ltd in helping companies create and maintain a better code base for reusability. Capable of continuous learning from senior developers while still nurturing junior developers.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Canada 🇨🇦 🍁 
 * 🖥️  See my portfolio at [Clevertag](http://clevertag.netlify.app/)
 * ✉️  You can contact me at [tajudeenabdulgafar4@gmail.com](mailto:tajudeenabdulgafar4@gmail.com)
 * 🚀  I'm currently working on [Worthsight](http://worthsight.io/)
